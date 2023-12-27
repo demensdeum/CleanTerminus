@@ -6,7 +6,7 @@ def clear():
     elif os.name == 'nt':
         os.system('cls')
     else:
-        print("Clean Terminus does not support your OS!")
+        print(f"Clean Terminus does not support your OS: {os.name}")
 
 if __name__ == "__main__":
     clear()
