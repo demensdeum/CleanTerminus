@@ -1,2 +1,2 @@
 # CleanTerminus
-Crossplatform terminal clean command
+Crossplatform terminal clean command for Python
