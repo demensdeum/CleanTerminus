@@ -8,5 +8,8 @@ def clear():
     else:
         print(f"Clean Terminus does not support your OS: {os.name}")
 
+def clean():
+    clear()
+
 if __name__ == "__main__":
     clear()
