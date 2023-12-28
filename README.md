@@ -13,5 +13,5 @@ pip install .  (there is dot at the end)
 
 ```
 import cleanterminus
-cleanterminus.clean()
+cleanterminus.clear()
 ```
