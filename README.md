@@ -7,7 +7,7 @@ Crossplatform terminal clean command for Python
 pip install cleanterminus
 ```
 
-or
+or  
 
 ```
 git clone https://github.com/demensdeum/CleanTerminus.git  
@@ -20,4 +20,11 @@ pip install .  (there is dot at the end)
 ```
 import cleanterminus
 cleanterminus.clean()
+```
+
+or  
+
+```
+=======
+cleanterminus.clear()
 ```
